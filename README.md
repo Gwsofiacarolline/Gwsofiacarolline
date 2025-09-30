@@ -21,23 +21,6 @@ Nos últimos meses, venho expandindo minha carreira para a área de **tecnologia
 <br>
 Gosto de colaborar e aprender | Em constante evolução
 ---
-## Minhas Habilidades
-
-### Gestão & Negócios
-- Administração e Finanças
-- Assistência Administrativa
-- Gestão de Projetos
-- RH e Treinamentos
-- Comunicação e Organização
-
-### Desenvolvimento Web
-- HTML5, CSS3, JavaScript
-- PHP (básico/intermediário)
-- Git & GitHub
-- Lógica de Programação
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -53,6 +36,21 @@ Gosto de colaborar e aprender | Em constante evolução
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
+
+## Minhas Habilidades
+
+### Gestão & Negócios
+- Administração e Finanças
+- Assistência Administrativa
+- Gestão de Projetos
+- RH e Treinamentos
+- Comunicação e Organização
+
+### Desenvolvimento Web
+- HTML5, CSS3, JavaScript
+- PHP (básico/intermediário)
+- Git & GitHub
+- Lógica de Programação
 
 ###
 

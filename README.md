@@ -9,7 +9,7 @@ Bem-vindos ao meu portal digital</h1>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue"/>
 </p>
 
 ---

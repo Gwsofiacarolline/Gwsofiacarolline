@@ -1,70 +1,87 @@
-<div align="center">
-  <img src="https://image.pollinations.ai/prompt/A%20sleek,%20modern%20gaming%20PC%20setup%20with%20RGB%20lighting%20on%20a%20dark%20desk,%20minimalist%20design,%20digital%20code%20elements%20subtly%20integrated%20in%20the%20background,%20tech%20vibe,%20dark%20theme,%20neon%20accents,%20high%20resolution?width=1200&height=400&seed=42" alt="Banner preto com computador gamer moderno e elementos de código" width="100%">
-</div>
-
-# 👋 Olá, sou a Sofia Caroline!
-
-### **Administração | Finanças | Tecnologia (HTML, JavaScript, CSS, PHP)**
+<h1 align="center">Olá, eu sou a Sofia Caroline</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" alt="Contador de visualizações" />
+  <strong>Administração | Finanças | Gestão de Projetos | RH | HTML | CSS | JavaScript | PHP</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" alt="Visualizações de perfil" />
   <img src="https://img.shields.io/github/followers/Gwsofiacarolline?style=social" alt="Seguidores no GitHub" />
 </p>
 
 ---
 
-Olá! me chamo Sofia Caroline
-Bem-vindos ao meu portal digital!
+## 🎯 Sobre Mim
 
-## Sobre Mim
+Sou uma profissional com forte atuação em **Administração**, **Finanças**, **Assistência Administrativa** e **RH/Treinamentos**. Tenho experiência em **Gestão de Projetos**, com foco em otimização de processos e inovação.
 
-Profissional com uma base sólida em **Administração** e **Finanças**, com foco em resultados, **Gestão de Projetos**, e eficiência em **Assistência Administrativa** e **RH/Treinamentos**.
+Nos últimos meses, venho expandindo minha carreira para a área de **tecnologia**, aprendendo e aplicando conceitos de **Desenvolvimento Web** com **HTML**, **CSS**, **JavaScript** e **PHP**.
 
-Recentemente, expandi minhas habilidades para a área de tecnologia, dominando as bases do **Desenvolvimento Web (HTML, CSS, JavaScript)** e **PHP**. Busco aplicar essa sinergia de conhecimentos de gestão e tecnologia para otimizar processos e impulsionar a inovação.
-
----
-
-## 💻 Minhas Habilidades Técnicas
-
-| Área | Tecnologias/Habilidades |
-| :--- | :--- |
-| **Desenvolvimento Web** | **HTML5** | **CSS3** | **JavaScript** | **PHP** |
-| **Gestão** | Gestão de Projetos | Assistência Administrativa | RH e Treinamentos |
-| **Negócios** | Administração | Finanças | Análise de Dados |
-
-### Ferramentas & Mais
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
-  </p>
+Gosto de colaborar e aprender | Em constante evolução
 
 ---
 
-## Estatísticas do GitHub (Opcional, mas muito tecnológico)
+## Minhas Habilidades
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gwsofiacarolline&show_icons=true&theme=vue" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwsofiacarolline&theme=vue" alt="Streak do GitHub" />
-</div>
+### Gestão & Negócios
+- Administração e Finanças
+- Assistência Administrativa
+- Gestão de Projetos
+- RH e Treinamentos
+- Comunicação e Organização
+
+### Desenvolvimento Web
+- HTML5, CSS3, JavaScript
+- PHP (básico/intermediário)
+- Git & GitHub
+- Lógica de Programação
 
 ---
 
-## Conecte-se Comigo!
+## Ferramentas e Tecnologias
 
-| Plataforma | Link |
-| :--- | :--- |
-| **Email Profissional** | [sofiacarolline@gmail.com](mailto:sofiacarolline@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/sofia-caroline-oliveira-02a1341a5](https://www.linkedin.com/in/sofia-caroline-oliveira-02a1341a5) |
-| **GitHub** | [@Gwsofiacarolline](https://github.com/Gwsofiacarolline) |
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+## GitHub em ação
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gwsofiacarolline&show_icons=true&theme=material-palenight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gwsofiacarolline&theme=material-palenight" width="47%" />
+</p>
+
+---
+
+## Conecte-se comigo
 
 <p align="center">
   <a href="mailto:sofiacarolline@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sofia-caroline-oliveira-02a1341a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gwsofiacarolline">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <p>Ingressou no GitHub há 28 dias | Foco atual: Desenvolvimento Web + Projetos Administrativos</p>
+</div>
+
+---
+ww.linkedin.com/in/sofia-caroline-oliveira-02a1341a5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>

@@ -1,10 +1,26 @@
-## 🎯 Sobre Mim
+<div align="center">
+  <img src="https://image.pollinations.ai/prompt/A%20sleek,%20modern%20gaming%20PC%20setup%20with%20RGB%20lighting%20on%20a%20dark%20desk,%20minimalist%20design,%20digital%20code%20elements%20subtly%20integrated%20in%20the%20background,%20tech%20vibe,%20dark%20theme,%20neon%20accents,%20high%20resolution?width=1200&height=400&seed=42" alt="Banner preto com computador gamer moderno e elementos de código" width="100%">
+</div>
+
+# 👋 Olá, sou a Sofia Caroline!
+
+### **Administração | Finanças | Tecnologia (HTML, JavaScript, CSS, PHP)**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" alt="Contador de visualizações" />
+  <img src="https://img.shields.io/github/followers/Gwsofiacarolline?style=social" alt="Seguidores no GitHub" />
+</p>
+
+---
+
+Olá! me chamo Sofia Caroline
+Bem-vindos ao meu portal digital!
+
+## Sobre Mim
 
 Profissional com uma base sólida em **Administração** e **Finanças**, com foco em resultados, **Gestão de Projetos**, e eficiência em **Assistência Administrativa** e **RH/Treinamentos**.
 
 Recentemente, expandi minhas habilidades para a área de tecnologia, dominando as bases do **Desenvolvimento Web (HTML, CSS, JavaScript)** e **PHP**. Busco aplicar essa sinergia de conhecimentos de gestão e tecnologia para otimizar processos e impulsionar a inovação.
-
-### **Administração | Finanças | Tecnologia (HTML, JavaScript, CSS, PHP)**
 
 ---
 
@@ -16,32 +32,7 @@ Recentemente, expandi minhas habilidades para a área de tecnologia, dominando a
 | **Gestão** | Gestão de Projetos | Assistência Administrativa | RH e Treinamentos |
 | **Negócios** | Administração | Finanças | Análise de Dados |
 
-### ✨ Ferramentas & Mais
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/half-blooded/half-blooded/main/assets/banner-social.png" alt="Banner com código e tecnologia" width="100%">
-</div>
-
-
----
+### Ferramentas & Mais
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
@@ -52,7 +43,7 @@ Recentemente, expandi minhas habilidades para a área de tecnologia, dominando a
 
 ---
 
-## 📊 Estatísticas do GitHub (Opcional, mas muito tecnológico)
+## Estatísticas do GitHub (Opcional, mas muito tecnológico)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gwsofiacarolline&show_icons=true&theme=vue" alt="Estatísticas do GitHub" />
@@ -61,7 +52,7 @@ Recentemente, expandi minhas habilidades para a área de tecnologia, dominando a
 
 ---
 
-## 📧 Conecte-se Comigo!
+## Conecte-se Comigo!
 
 | Plataforma | Link |
 | :--- | :--- |
@@ -81,5 +72,5 @@ Recentemente, expandi minhas habilidades para a área de tecnologia, dominando a
 ***
 
 <div align="center">
-  <p>🚀 Membro do GitHub desde: 28 dias atrás | Foco: Inovação e Resultados!</p>
+  <p>Membro do GitHub desde: 28 dias atrás | Foco: Inovação e Resultados!</p>
 </div>

@@ -1,6 +1,7 @@
 <h1 align="center">## Sobre Mim
   
 Olá! me chamo Sofia Caroline
+<br>
 Bem-vindos ao meu portal digital</h1>
 
 <p align="center">

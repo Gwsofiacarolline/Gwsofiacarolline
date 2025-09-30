@@ -1,62 +1,45 @@
-<h1 align="center">## Sobre Mim
-  
-Olá! me chamo Sofia Caroline
-<br>
-Bem-vindos ao meu portal digital</h1>
+# Olá! Seja bem-vindo(a) ao meu perfil! 👋🏽
 
-<p align="center">
-  <strong>Administração | Finanças | Gestão de Projetos | RH | HTML | CSS | JavaScript | PHP</strong>
-</p>
+### Meu nome é _[Seu Nome]_ e estou me dedicando para me tornar um(a) Desenvolvedor(a) Front-End! 👩🏽‍💻👨🏽‍💻
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue"/>
-</p>
+**Atualmente**:  
+* Participando de projetos e cursos para aprimorar minhas habilidades em desenvolvimento web 🌐;  
+* Estudando HTML, CSS, JavaScript e outras tecnologias com foco e dedicação 📚;  
+* Criando projetos práticos para aplicar o que aprendo e ganhar experiência 💡.
+
+Descobri a programação recentemente e estou apaixonado(a) por criar soluções que impactam positivamente! 💻✨
 
 ---
 
-## Sobre Mim
+### 🚀 Linguagens e Ferramentas  
 
-Sou uma profissional com  atuação em **Administração**, **Finanças**, **Assistência Administrativa** e **RH/Treinamentos**. Tenho experiência em **Gestão de Projetos**, com foco em otimização de processos e inovação. <br>
-Nos últimos meses, venho expandindo minha carreira para a área de **tecnologia**, aprendendo e aplicando conceitos de **Desenvolvimento Web** com **HTML**, **CSS**, **JavaScript** e **PHP**.
-<br>
-Gosto de colaborar e aprender | Em constante evolução
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
 ---
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+
+### 🌐 Minhas Redes Sociais  
+
+<div style="display: inline_block">
+  <a href="[Seu LinkedIn]">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28px" />
+  </a>
+  <a href="[Seu GitHub]">
+    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28px" />
+  </a>
 </div>
 
-## Minhas Habilidades
+---
 
-### Gestão & Negócios
-- Administração e Finanças
-- Assistência Administrativa
-- Gestão de Projetos
-- RH e Treinamentos
-- Comunicação e Organização
+## 📊 Estatísticas Modernas do GitHub
 
-### Desenvolvimento Web
-- HTML5, CSS3, JavaScript
-- PHP (básico/intermediário)
-- Git & GitHub
-- Lógica de Programação
+### 🔹 Perfil e Conquistas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SeuUsuario]&show_icons=true&theme=tokyonight&hide_border=true)
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
+### 🔹 Badges de Conquistas
+![Conquistas](https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge)
+![Projetos](https://img.shields.io/badge/Projetos-Em_andamento-blue?style=for-the-badge)
+![Estudando](https://img.shields.io/badge/Estudo-Constante-orange?style=for-the-badge)

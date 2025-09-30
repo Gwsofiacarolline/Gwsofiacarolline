@@ -10,21 +10,16 @@ Bem-vindos ao meu portal digital</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" alt="Visualizações de perfil" />
-  <img src="https://img.shields.io/github/followers/Gwsofiacarolline?style=social" alt="Seguidores no GitHub" />
 </p>
 
 ---
 
-## 🎯 Sobre Mim
+## Sobre Mim
 
-Sou uma profissional com forte atuação em **Administração**, **Finanças**, **Assistência Administrativa** e **RH/Treinamentos**. Tenho experiência em **Gestão de Projetos**, com foco em otimização de processos e inovação.
-
+Sou uma profissional com  atuação em **Administração**, **Finanças**, **Assistência Administrativa** e **RH/Treinamentos**. Tenho experiência em **Gestão de Projetos**, com foco em otimização de processos e inovação.
 Nos últimos meses, venho expandindo minha carreira para a área de **tecnologia**, aprendendo e aplicando conceitos de **Desenvolvimento Web** com **HTML**, **CSS**, **JavaScript** e **PHP**.
-
 Gosto de colaborar e aprender | Em constante evolução
-
 ---
-
 ## Minhas Habilidades
 
 ### Gestão & Negócios
@@ -40,10 +35,7 @@ Gosto de colaborar e aprender | Em constante evolução
 - Git & GitHub
 - Lógica de Programação
 
-
-
 ###
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />

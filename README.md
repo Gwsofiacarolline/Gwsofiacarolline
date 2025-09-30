@@ -4,6 +4,8 @@ Profissional com uma base sólida em **Administração** e **Finanças**, com fo
 
 Recentemente, expandi minhas habilidades para a área de tecnologia, dominando as bases do **Desenvolvimento Web (HTML, CSS, JavaScript)** e **PHP**. Busco aplicar essa sinergia de conhecimentos de gestão e tecnologia para otimizar processos e impulsionar a inovação.
 
+### **Administração | Finanças | Tecnologia (HTML, JavaScript, CSS, PHP)**
+
 ---
 
 ## 💻 Minhas Habilidades Técnicas
@@ -38,14 +40,6 @@ Recentemente, expandi minhas habilidades para a área de tecnologia, dominando a
   <img src="https://raw.githubusercontent.com/half-blooded/half-blooded/main/assets/banner-social.png" alt="Banner com código e tecnologia" width="100%">
 </div>
 
-# 👋 Olá, sou a Sofia Caroline!
-
-### **Administração | Finanças | Tecnologia (HTML, JavaScript, CSS, PHP)**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" alt="Contador de visualizações" />
-  <img src="https://img.shields.io/github/followers/Gwsofiacarolline?style=social" alt="Seguidores no GitHub" />
-</p>
 
 ---
 

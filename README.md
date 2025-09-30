@@ -1,4 +1,7 @@
-<h1 align="center">Olá, eu sou a Sofia Caroline</h1>
+<h1 align="center">## Sobre Mim
+  
+Olá! me chamo Sofia Caroline
+Bem-vindos ao meu portal digital</h1>
 
 <p align="center">
   <strong>Administração | Finanças | Gestão de Projetos | RH | HTML | CSS | JavaScript | PHP</strong>

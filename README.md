@@ -9,15 +9,16 @@ Bem-vindos ao meu portal digital</h1>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" alt="Visualizações de perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Gwsofiacarolline&color=blue" />
 </p>
 
 ---
 
 ## Sobre Mim
 
-Sou uma profissional com  atuação em **Administração**, **Finanças**, **Assistência Administrativa** e **RH/Treinamentos**. Tenho experiência em **Gestão de Projetos**, com foco em otimização de processos e inovação.
+Sou uma profissional com  atuação em **Administração**, **Finanças**, **Assistência Administrativa** e **RH/Treinamentos**. Tenho experiência em **Gestão de Projetos**, com foco em otimização de processos e inovação. <br>
 Nos últimos meses, venho expandindo minha carreira para a área de **tecnologia**, aprendendo e aplicando conceitos de **Desenvolvimento Web** com **HTML**, **CSS**, **JavaScript** e **PHP**.
+<br>
 Gosto de colaborar e aprender | Em constante evolução
 ---
 ## Minhas Habilidades

@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! 👋🏽
 
-### Meu nome é _[Seu Nome]_ e estou me dedicando para me tornar um(a) Desenvolvedor(a) Front-End! 👩🏽‍💻👨🏽‍💻
+### Meu nome é Sofia Caroline e estou me dedicando para me tornar uma Desenvolvedora Front-End! 
 
 **Atualmente**:  
 * Participando de projetos e cursos para aprimorar minhas habilidades em desenvolvimento web 🌐;  

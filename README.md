@@ -43,7 +43,10 @@ Descobri a programação recentemente e estou apaixonado(a) por criar soluções
 ## 📊 Estatísticas Modernas do GitHub
 
 ### 🔹 Perfil e Conquistas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SeuUsuario]&show_icons=true&theme=tokyonight&hide_border=true)
+![Estatísticas do GitHub]<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ### 🔹 Badges de Conquistas
 ![Conquistas](https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge)

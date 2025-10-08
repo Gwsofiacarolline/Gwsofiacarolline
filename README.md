@@ -1,13 +1,20 @@
-# Olá! Seja bem-vindo(a) ao meu perfil! 👋🏽
+# Olá! Seja bem-vindo(a) ao meu perfil! 
 
 ### Meu nome é Sofia Caroline e estou me dedicando para me tornar uma Desenvolvedora Front-End! 
 
 **Atualmente**:  
-* Participando de projetos e cursos para aprimorar minhas habilidades em desenvolvimento web 🌐;  
-* Estudando HTML, CSS, JavaScript e outras tecnologias com foco e dedicação 📚;  
-* Criando projetos práticos para aplicar o que aprendo e ganhar experiência 💡.
+* Administração
+* Finanças
+* Assistente Administrativo
+* Gestão de Projetos
+* RH & Treinamentos
+* HTML
+* Java Script
+* CSS
+* PHP
 
-Descobri a programação recentemente e estou apaixonado(a) por criar soluções que impactam positivamente! 💻✨
+Olá! Me chamo Sofia, sou formada em Administração pela Universidade Paulista (UNIP) e possuo sólida experiência na área administrativa, atuando com processos internos, atendimento, suporte ao RH, financeiro e projetos. Ao longo da minha carreira profissional, desenvolvi um perfil analítico, organizado e focado em resultados, sempre com foco na melhoria. 💻✨
+Tenho estudado e desenvolvido projetos com tecnologias como Java Script, Python, HTML, CSS e Git, além de práticas de código de desenvolvimento front-end. Busco oportunidades que me permitam aplicar minha experiência organizacional na criação de soluções digitais.
 
 ---
 
@@ -43,10 +50,10 @@ Descobri a programação recentemente e estou apaixonado(a) por criar soluções
 ## 📊 Estatísticas Modernas do GitHub
 
 ### 🔹 Perfil e Conquistas
-![Estatísticas do GitHub]<br clear="both">
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 
 ### 🔹 Badges de Conquistas
 ![Conquistas](https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge)

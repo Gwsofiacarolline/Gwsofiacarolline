@@ -1,10 +1,9 @@
-# Olá! Seja bem-vindo(a) ao meu perfil! 
+# Olá! Seja bem-vindo(a) ao meu perfil! ✨
 
-### Meu nome é Sofia Caroline e estou me dedicando para me tornar uma Desenvolvedora Front-End! 
+# Meu nome é Sofia Caroline e estou me dedicando para ser Desenvolvedora Front-End! 
 
 **Atualmente**:  
 * Administração
-* Finanças
 * Gestão de Projetos
 * RH & Treinamentos
 * HTML
@@ -17,7 +16,7 @@ Tenho estudado e desenvolvido projetos com tecnologias como Java Script, Python,
 
 ---
 
-### 🚀 Linguagens e Ferramentas  
+# 🚀 Linguagens e Ferramentas  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,7 +34,7 @@ Tenho estudado e desenvolvido projetos com tecnologias como Java Script, Python,
 
 ---
 
-### 🌐 Minhas Redes Sociais  
+# 🌐 Minhas Redes Sociais  
 
 <div align="left">
   <a href="https://www.instagram.com/sofiacarolline/" target="_blank">

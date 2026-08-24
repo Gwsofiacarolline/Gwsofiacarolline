@@ -1,18 +1,15 @@
-# Olá! Seja bem-vindo(a) ao meu perfil! ✨
 
 # Meu nome é Sofia Caroline e estou me dedicando para ser Desenvolvedora Front-End! 
 
 **Atualmente**:  
 * Administração
 * Gestão de Projetos
-* RH & Treinamentos
 * HTML
 * Java Script
 * CSS
 * PHP
 
-Olá! Me chamo Sofia, sou formada em Administração pela Universidade Paulista (UNIP) e possuo sólida experiência na área administrativa, atuando com processos internos, atendimento, suporte ao RH, financeiro e projetos. Ao longo da minha carreira profissional, desenvolvi um perfil analítico, organizado e focado em resultados, sempre com foco na melhoria. 💻✨
-Tenho estudado e desenvolvido projetos com tecnologias como Java Script, Python, HTML, CSS e Git, além de práticas de código de desenvolvimento front-end. Busco oportunidades que me permitam aplicar minha experiência organizacional na criação de soluções digitais.
+Olá! meu nome é Sofia, sou formada em Administração pela Universidade Paulista (UNIP) e possuo uma sólida experiência na área administrativa, atuando com processos internos, atendimento, suporte ao RH, financeiro e projetos. Ao longo da minha carreira profissional tenho estudado e desenvolvido projetos com tecnologias como Java Script, Python, HTML, CSS e Git, além de práticas de código de desenvolvimento front-end. Busco oportunidades que me permitam aplicar minha experiência organizacional na criação de soluções digitais.
 
 ---
 
